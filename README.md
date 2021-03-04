@@ -14,5 +14,5 @@ This is also my first README file! I hope I did a good job.
 
 ## How the website should look
 ***
-(./assets/images/screenshot1.png)
-(./assets/images/screenshot2.png)
+![Top Half of Website](./assets/images/screenshot1.png)
+![Bottom Half of Websites](./assets/images/screenshot2.png)
