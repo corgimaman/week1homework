@@ -11,6 +11,9 @@ There was also a broken link that I fixed. (Clicking on Search Engine Optimizati
 This was a good exercise on combining classes in CSS, as well as using the header/body/footer that are already basic HTML.
 This is also my first README file! I hope I did a good job.
 
+### Link to Access the Site
+[Website Link](https://corgimaman.github.io/week1homework/)
+
 ## How the website should look
 ***
 ![Top Half of Website](./assets/images/screenshot1.png)

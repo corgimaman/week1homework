@@ -1,4 +1,4 @@
-/* Universal */
+/* Universal styling */
 
 * {
     box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header Section */
+/* Header Section styles */
 
 header {
     padding: 20px;
